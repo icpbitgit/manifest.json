@@ -1,1 +1,1 @@
-"name":"HR Slider Test","type":"web","domain":"https://icpbitgit.github.io","auth":"oauth","side_panel":{"url":"https://icpbitgit.github.io/index.html","title":"HR панель"},"permissions":["im.chat.message.add"]
+"name":"HR Slider Test","type":"web","domain":"https://icpbitgit.github.io","auth":"oauth","side_panel":{"url":"https://icpbitgit.github.io/manifest/index.html","title":"HR панель"},"permissions":["im.chat.message.add"]
