@@ -1,1 +1,1 @@
-# manifest.json
+{"name":"HR Slider Test","type":"web","domain":"https://nr.aulservice.space","auth":"oauth","side_panel":{"url":"https://nr.aulservice.space/hr_slider/index.html","title":"HR панель"},"permissions":["im.chat.message.add"]}
